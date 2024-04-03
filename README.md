@@ -1,2 +1,2 @@
 # test_repo
-repo for test
+repository for test
